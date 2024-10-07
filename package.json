@@ -1,0 +1,7 @@
+{ "name": "ollama-js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.0",
+    "ollama": "^0.5.9"
+  }
+}
