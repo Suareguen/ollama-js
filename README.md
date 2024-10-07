@@ -4,15 +4,9 @@ This project implements an **Express** server that uses the **Ollama** library t
 
 ## Project Setup
 
-1. **Clone the repository**.
-
-2. **Install dependencies**:
+**Install dependencies**:
 
    Ensure you have the `package.json` file in your project and execute the appropriate command to install the dependencies, which will install both **Express** and **Ollama**.
-
-3. **Verify that Ollama is running**:
-
-   Before starting the server, make sure that **Ollama** is running correctly on your machine. You can test this by executing a prompt in Ollama.
 
 ## Running the Server
 
